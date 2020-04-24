@@ -40,7 +40,7 @@ export default class PublicArtJSONToJSON
                 });
             }
 
-            filtered.features.push(transformedFeature);
+            filtered.features.push(filteredFeature);
         });
 
         return filtered;
