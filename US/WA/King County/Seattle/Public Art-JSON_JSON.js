@@ -1,6 +1,6 @@
 import {JSONFilter} from "../../../../JSONFilter.js";
 
-export default class PublicArtJSONToJSON
+export default class PublicArtJSON_JSON
     extends JSONFilter
 {
     simplifyString(str)
